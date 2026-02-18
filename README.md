@@ -7,9 +7,9 @@
 
 ### 📬 Conecte-se comigo
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/seuusuario) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seulink)
-[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/marcojamees) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcojames/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:james.marco118@gmail.com)
 
 ---
 
