@@ -86,7 +86,9 @@ Estruturo bases sólidas para decisões estratégicas.
 
 ---
 
-<!-- Isso é um comentário invisível --> ## 📊 GitHub Stats
+<!--
+## 📊 GitHub Stats
 
-<!-- Isso é um comentário invisível --><p align="center">
-<!-- Isso é um comentário invisível --><img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=marcojamees&show_icons=true&line_height=21&theme=react" alt="marcojamees's Github Stats" />
+<p align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=marcojamees&show_icons=true&line_height=21&theme=react" alt="marcojamees's Github Stats" />
+-->
